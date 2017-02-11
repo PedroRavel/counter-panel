@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["CounterCtrl"],"mappings":";;;;;;;;AAAQA,iB,mBAAAA,W;;;2BAGNA,W","file":"module.js","sourcesContent":["import {CounterCtrl} from './counter_ctrl.js';\n\nexport {\n  CounterCtrl as PanelCtrl\n};\n"]}
